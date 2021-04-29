@@ -8,3 +8,8 @@
 - 📫 How to reach me: *here, there, and everywhere... [enderadel.email@gmail.com](mailto:enderadel.email@gmail.com?subject=I%20hate%20you%20EnderAdel!)*
 - 😄 Pronouns: *He/Him*
 - ⚡ Fun fact: *I hate stuff, and I like stuff too...*
+
+
+### Meaningless stats:
+
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=mhevery)](https://github.com/LordDashMe/github-contribution-stats/)
