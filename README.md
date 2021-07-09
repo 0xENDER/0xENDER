@@ -9,7 +9,22 @@
 - 😄 Pronouns: *He/Him*
 - ⚡ Fun fact: *I hate stuff, and I like stuff too...*
 
+### General Stats
 
-### Meaningless stats:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adel-sbeh)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=adel-sbeh)](https://github.com/LordDashMe/github-contribution-stats/)
+### Language-Related Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adel-sbeh&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adelsbeh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EnderCommunity&repo=Murmur)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EnderCommunity&repo=EnderFramework)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EnderCommunity&repo=EnderLibrary)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EnderCommunity&repo=EnderCompiler)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EnderCommunity&repo=EnderKit)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EnderCommunity&repo=EnderOS)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EnderCommunity&repo=EnderServer)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EnderCommunity&repo=EnderHelper )](https://github.com/anuraghazra/github-readme-stats)
