@@ -1,10 +1,6 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on *[ender.ing](https://github.com/Ender-ing)*...
-- 🌱 I’m currently learning *nothing...*
-- 👯 I’m looking to collaborate on *nothing...*
-- 🤔 I’m looking for help with *[[Everything]](https://github.com/Ender-ing)*
-- 💬 Ask me about *what to ask me...*
 - 📫 How to reach me: *[admin@ender.ing](mailto:admin@gmail.com)*
 - 😄 Pronouns: *He/Him*
 - ⚡ Fun fact: *I like cats...*
