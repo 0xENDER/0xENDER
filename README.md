@@ -5,6 +5,15 @@
 - 😄 Pronouns: *He/Him*
 - ⚡ Fun fact: *I like cats...*
 
+> [!IMPORTANT]
+> Are you looking for my CV projects?
+> Check my [personal repositories](https://github.com/0xENDER?tab=repositories)
+> or check my [GitHub organisation](https://github.com/Ender-ing)!
+>
+> You may also check the [projects documentation page](https://docs.ender.ing/docs/contribution/intro/#projects) for an organised list of planned and in-progress projects!
+>
+> In addition, WakaTime coding stats are available right below this bullet note!
+
 ### General Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xENDER&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
