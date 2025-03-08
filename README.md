@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on *[PolarFrankie]([https://github.com/Ender-ing](https://github.com/Ender-ing/frankie))* and *[other projects](https://github.com/Ender-ing)*...
+- 🔭 I’m currently working on *[PolarFrankie](https://github.com/Ender-ing/frankie)* and *[other projects](https://github.com/Ender-ing)*...
 - 📫 How to reach me: *[admin@ender.ing](mailto:admin@gmail.com)*
 - 😄 Pronouns: *He/Him*
 - ⚡ Fun fact: *I like cats...*
