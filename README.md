@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hello there!
 
-- 🔭 I’m currently working on *[PolarFrankie](https://github.com/Ender-ing/frankie)* and *[other projects](https://github.com/Ender-ing)*...
-- 📫 How to reach me: *[admin@ender.ing](mailto:admin@gmail.com)*
-- 😄 Pronouns: *He/Him*
-- ⚡ Fun fact: *I like cats...*
+- I’m currently working on: *[PolarFrankie](https://github.com/Ender-ing/frankie) and [other projects](https://github.com/Ender-ing)*...
+- How to reach me: *[admin@ender.ing](mailto:admin@gmail.com) or [*@.0xender* on Discord](https://discord.com/users/527265594345783316)*
+- Pronouns: *He/Him* 👀
+- Fun fact: *I like cats* 🐱
 
 > [!IMPORTANT]
 > Are you looking for my CV projects?
