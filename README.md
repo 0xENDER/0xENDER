@@ -3,7 +3,7 @@
 - I’m currently working on: *[PolarFrankie](https://github.com/Ender-ing/frankie) and [other projects](https://github.com/Ender-ing)*...
 - How to reach me: *[admin@ender.ing](mailto:admin@ender.ing) or [*@.0xender* on Discord](https://discord.com/users/527265594345783316)*
 - Pronouns: *He/Him* 👀
-- Fun fact: *I like cats* 🐱
+- Fun fact: *I like cats* 😻 *and Steven Universe* ✨💎💖
 
 > [!IMPORTANT]
 > Are you looking for my CV projects?
