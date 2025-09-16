@@ -1,6 +1,6 @@
 ### Hello there!
 
-- I’m currently working on: *[random stuff](https://github.com/Ender-ing)*...
+- I’m currently working on: *[Random stuff](https://github.com/Ender-ing)🥴*~~, *might discontinue later*🤭~~!
 - How to reach me: *[admin@ender.ing](mailto:admin@ender.ing) or [*@.0xender* on Discord](https://discord.com/users/527265594345783316)*
 - Pronouns: *He/They* 👀
 - Fun fact: *I like cats* 😻 *and Steven Universe* ✨💎💖
