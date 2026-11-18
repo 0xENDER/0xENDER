@@ -8,15 +8,6 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31jorvl6g2eospvvg2vz52juvlcy&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31jorvl6g2eospvvg2vz52juvlcy&redirect=true)
 
-> [!IMPORTANT]
-> Are you looking for my CV projects?
-> Check my [personal repositories](https://github.com/0xENDER?tab=repositories)
-> or check my [GitHub organisation](https://github.com/Ender-ing)!
->
-> You may also check the [projects documentation page](https://docs.ender.ing/docs/contribution/intro/#projects) for an organised list of planned and in-progress projects!
->
-> In addition, WakaTime coding stats are available right below this bullet note!
-
 ### General Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xENDER&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
